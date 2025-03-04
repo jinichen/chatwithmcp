@@ -1,6 +1,6 @@
 # ASA Dialog + MCP 系统
 
-这是 ASA Dialog + MCP 系统的前端部分，采用现代化技术栈构建，提供智能对话和 MCP 扩展功能。
+ASA Dialog + MCP 系统分为前端和后端，前端采用现代化技术栈构建，提供智能对话和 MCP 扩展功能； 后端采用fastapi + langchain实现业务逻辑;
 
 ## 技术栈
 
