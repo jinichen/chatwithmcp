@@ -71,8 +71,7 @@ frontend/
 │   ├── components/      # 组件
 │   │   ├── layout/      # 布局组件
 │   │   └── ui/          # UI 组件
-│   ├── lib/             # 工具函数
-│   └── styles/          # 样式文件
+│   └── lib/          # 工具函数
 └── package.json         # 项目配置
 ```
 
